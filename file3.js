@@ -1,2 +1,3 @@
-function foo3(){
+
+function tfun2(){
 }
